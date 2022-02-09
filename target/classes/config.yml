@@ -1,0 +1,7 @@
+#MemeBot by JernejTDO
+
+# Setup the bot token
+token: "token"
+
+# Bot setings
+command: "-memes" 
